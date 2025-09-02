@@ -1,0 +1,7 @@
+torch
+torchxrayvision
+pandas
+numpy
+pillow
+fastapi
+uvicorn
